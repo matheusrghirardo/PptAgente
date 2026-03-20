@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Generated presentations
+*.pptx
+
+# pytest
+.pytest_cache/
+
+# IDE
+.idea/
+.vscode/
